@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Mirror Digital Icon">
+  <rect width="64" height="64" rx="16" fill="#0F172A"/>
+  <!-- Left Wing / Page -->
+  <path d="M19 45.5V23C19 21.6193 20.1193 20.5 21.5 20.5H30.5C32.1569 20.5 33.5 21.8431 33.5 23.5V46.5C33.5 47.3284 32.8284 48 32 48H21.5C20.1193 48 19 46.8807 19 45.5Z" fill="#3B82F6"/>
+  <!-- Right Wing / Page -->
+  <path d="M45 45.5V23C45 21.6193 43.8807 20.5 42.5 20.5H33.5C31.8431 20.5 30.5 21.8431 30.5 23.5V46.5C30.5 47.3284 31.1716 48 32 48H42.5C43.8807 48 45 46.8807 45 45.5Z" fill="#06B6D4"/>
+  <!-- Center reflection divider -->
+  <line x1="32" y1="22" x2="32" y2="46" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Subtle shine accent -->
+  <circle cx="25" cy="28" r="2.5" fill="#FFFFFF" fill-opacity="0.9"/>
+</svg>

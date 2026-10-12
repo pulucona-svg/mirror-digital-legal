@@ -1,0 +1,22 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Vercel & Build outputs
+.vercel/
+node_modules/
+dist/
+out/
+*.log
+
+# Environment & Local Secrets
+.env
+.env.*
+*.local
